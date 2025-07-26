@@ -13,7 +13,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 - **🧮Implicit Measures:** Formulated measures to derive key insights
 and KPls like Median Yearly Salary and Job Count.
 
-- **'📊Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
+- **📊Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
 
 - **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution ofjobs.
 
