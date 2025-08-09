@@ -44,7 +44,7 @@ specific features.
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](/images/Project%202%20Page%201.png)
+[➡️ **View Full Project 2 Details (README)**](/Data%20Jobs%20V2/README.Md)
 
 ## About This Portfolio
 
